@@ -1,2 +1,2 @@
-# remove-html-and-php-extension-from-htaccess
-Remove html and php extension using .htaccess
+I have done this code tested ok on my server.
+Please contact me if if any support
